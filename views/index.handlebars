@@ -1,0 +1,25 @@
+<div class = "container">
+  <div class = "row">
+    <div class = "col-12 text-center" id ="top-header">
+      <h1>Eat Da Burger!</h1>
+    </div>
+    <div class="col-6 text-center" class="eat">
+      <div class="row">
+        {{#each burger}}
+        {{#unless this.devoured}}
+        <div class="col-9 text-center">
+          <pre>{{this.id}}. {{this.burger_name}}</pre>
+        </div>
+        <div class="col-3 text-center">
+          <form method="POST" action = "/burgers/update?_method=PUT" class="button-size">
+          <input type="hidden" name="burger_id" type="text" value="{{this.id}}">
+          <br>
+          <button type="submit" class="btn btn-primary">DEVOUR IT!</button>
+          </form>
+        </div>
+        {{/unless}}
+        {{/each}}
+      </div>
+    </div>
+  </div>
+</div>
