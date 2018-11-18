@@ -1,5 +1,5 @@
 # Burgers-4-life
-## A Burger Eatting Tracking App
+## A Burger Eating Tracking App
 Users will be able track their consumption of burgers. Users can add new burgers and choose which burgers to devour. The burgers are stored in a database queried using SQL.
 ## Motivation
 I wanted to create an app that allowed users to store information to a SQL database through clientside UI.
