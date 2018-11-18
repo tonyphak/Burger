@@ -20,7 +20,10 @@ Eat Da Burger - Users will be able to devour a list of burgers and they will als
 * NPM - Require and Express
 * JawsDB
 * MySQL
-* RESTFul API
+* RESTFul API Model
+* Handlebars
+* jQuery
+* Homebrew ORM
 ## Prerequisites
 * NPM Inquirer - https://www.npmjs.com/package/inquirer (to access NPM Inquirer)
 ## Built With
