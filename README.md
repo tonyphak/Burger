@@ -18,9 +18,9 @@ Eat Da Burger - Users will be able to devour a list of burgers and they will als
 ## Technologies Used
 * Node.js
 * NPM - Require and Express
-*JawsDB
-*MySQL
-*RESTFul API
+* JawsDB
+* MySQL
+* RESTFul API
 ## Prerequisites
 * NPM Inquirer - https://www.npmjs.com/package/inquirer (to access NPM Inquirer)
 ## Built With
