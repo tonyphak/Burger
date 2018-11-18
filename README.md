@@ -10,7 +10,7 @@ Full App can be found here [Burger Demo](https://stark-temple-90757.herokuapp.co
 ## Screenshots
 Eat Da Burger - Users will be able to devour a list of burgers and they will also be able to enter new burgers
 
-### Landing Page
+### App Demo
 
 ![Image of question screen](https://github.com/tonyphak/Burger/blob/master/public/assets/img/Burger.gif)
 
