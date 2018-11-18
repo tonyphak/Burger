@@ -12,7 +12,7 @@ Eat Da Burger - Users will be able to devour a list of burgers and they will als
 
 ### Landing Page
 
-![Image of question screen](https://github.com/tonyphak/FriendFinder/blob/master/images/gif1.gif)
+![Image of question screen](https://github.com/tonyphak/Burger/blob/master/public/assets/img/Burger.gif)
 
 
 ## Technologies Used
