@@ -1,5 +1,5 @@
-# Burges-4-life
-## A Burger Eatting Tracking App
+# Burgers-4-life
+## A Burger Eating Tracking App
 Users will be able track their consumption of burgers. Users can add new burgers and choose which burgers to devour. The burgers are stored in a database queried using SQL.
 ## Motivation
 I wanted to create an app that allowed users to store information to a SQL database through clientside UI.
@@ -10,17 +10,20 @@ Full App can be found here [Burger Demo](https://stark-temple-90757.herokuapp.co
 ## Screenshots
 Eat Da Burger - Users will be able to devour a list of burgers and they will also be able to enter new burgers
 
-### Landing Page
+### App Demo
 
-![Image of question screen](https://github.com/tonyphak/FriendFinder/blob/master/images/gif1.gif)
+![Image of question screen](https://github.com/tonyphak/Burger/blob/master/public/assets/img/Burger.gif)
 
 
 ## Technologies Used
 * Node.js
 * NPM - Require and Express
-*JawsDB
-*MySQL
-*RESTFul API
+* JawsDB
+* MySQL
+* RESTFul API Model
+* Handlebars
+* jQuery
+* Homebrew ORM
 ## Prerequisites
 * NPM Inquirer - https://www.npmjs.com/package/inquirer (to access NPM Inquirer)
 ## Built With
